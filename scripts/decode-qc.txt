@@ -1,0 +1,16 @@
+QCStatement:
+  OID: 0.4.0.1862.1.4  (id-etsi-qcs-QcSSCD)
+  No qualifier
+
+id-etsi-qcs 4
+
+id-etsi-qcs-QcCompliance OBJECT IDENTIFIER ::= { id-etsi-qcs 1 }
+id-etsi-qcs-QcLimitValue OBJECT IDENTIFIER ::= { id-etsi-qcs 2 }
+id-etsi-qcs-QcRetentionPeriod OBJECT IDENTIFIER ::= { id-etsi-qcs 3 }
+id-etsi-qcs-QcSSCD OBJECT IDENTIFIER ::= { id-etsi-qcs 4 }
+id-etsi-qcs-QcPDS OBJECT IDENTIFIER ::= { id-etsi-qcs 5 }
+id-etsi-qcs-QcType OBJECT IDENTIFIER ::= { id-etsi-qcs 6 }
+id-etsi-qcs-QcCClegislation OBJECT IDENTIFIER ::= { id-etsi-qcs 7 }
+
+Qualified Certificate Statement (QCS) claiming that the private key related to the certified public key resides in a qualified electronic Signature/Seal Creation Device (SSCD)
+ETSI EN 319 412-5
