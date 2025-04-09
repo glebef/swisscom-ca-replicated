@@ -5,20 +5,20 @@ New generated certificates folder: SwisscomCAreplica
 #### Replicated:
 ### CA
 Original [Swisscom Root CA 2 (sdcs-root2)](https://aia.swissdigicert.ch/sdcs-root2.txt)\
-Replicated [Swisscom Root CA 2 replica](https://github.com/glebef/SwisscomCAreplica/blob/main/SwisscomCAreplica/sdcs-root2.pem)
+Replicated [Swisscom Root CA 2 replica](https://github.com/glebef/swisscom-ca-replicated/blob/main/SwisscomCAreplica/sdcs-root2.pem)
 
 Original [Swisscom Root CA 4 (sdcs-root4)](https://aia.swissdigicert.ch/sdcs-root4.txt)\
-Replicated [Swisscom Root CA 4 replicated](https://github.com/glebef/SwisscomCAreplica/blob/main/SwisscomCAreplica/sdcs-root4.pem)
+Replicated [Swisscom Root CA 4 replicated](https://github.com/glebef/swisscom-ca-replicated/blob/main/SwisscomCAreplica/sdcs-root4.pem)
 
 ### Intermediate Certificate Authority (CA)
 Original [Swisscom Diamant CA 4 (sdcs-diamant4)](https://aia.swissdigicert.ch/sdcs-diamant4.txt)\
-Replicated [Swisscom Diamant CA 4 replicated](https://github.com/glebef/SwisscomCAreplica/blob/main/SwisscomCAreplica/sdcs-diamant4.pem)
+Replicated [Swisscom Diamant CA 4 replicated](https://github.com/glebef/swisscom-ca-replicated/blob/main/SwisscomCAreplica/sdcs-diamant4.pem)
 
 Original [Swisscom Saphir CA 4 (sdcs-saphir4)](https://aia.swissdigicert.ch/sdcs-saphir4.txt)\
-Replicated [Swisscom Saphir CA 4 replicated](https://github.com/glebef/SwisscomCAreplica/blob/main/SwisscomCAreplica/sdcs-saphir4.pem)
+Replicated [Swisscom Saphir CA 4 replicated](https://github.com/glebef/swisscom-ca-replicated/blob/main/SwisscomCAreplica/sdcs-saphir4.pem)
 
 Original [Swisscom Rubin CA 4 (sdcs-rubin4)](https://aia.swissdigicert.ch/sdcs-rubin4.txt)\
-Replicated [Swisscom Rubin CA 4 replicated](https://github.com/glebef/SwisscomCAreplica/blob/main/SwisscomCAreplica/sdcs-rubin4.pem)
+Replicated [Swisscom Rubin CA 4 replicated](https://github.com/glebef/swisscom-ca-replicated/blob/main/SwisscomCAreplica/sdcs-rubin4.pem)
 
 #### Replicated data for each certificate
 Issuer\
