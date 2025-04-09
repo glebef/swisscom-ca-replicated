@@ -38,7 +38,7 @@ X509v3 Certificate Policies\
 X509v3 Extended Key Usage\
 X509v3 Key Usage
 
-#### QCStatement not implemented for sdcs-diamant4
+#### QCStatement is not implemented for sdcs-diamant4
 
 openssl asn1parse -in sdcs-diamant4.pem
 
