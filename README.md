@@ -43,5 +43,7 @@ QCStatement:\
 Qualified Certificate Statement (QCS) claiming that the private key related to the certified public key resides in a qualified electronic Signature/Seal Creation Device (SSCD)\
 ETSI EN 319 412-5
 
+OpenSSL didn’t accept this config on the first attempt, so I don’t have more time to spend on it.
+
 ### Tools
 OpenSSL 3.4.1 11 Feb 2025 (Library: OpenSSL 3.4.1 11 Feb 2025)
