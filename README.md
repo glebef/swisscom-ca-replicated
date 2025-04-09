@@ -1,7 +1,7 @@
 # Swisscom CA replicated
 
-Original certificates folder: SwisscomCAoriginal [Swisscom website](https://www.swisscom.ch/en/business/enterprise/offer/security/digital_certificate_service.html)
-new generated certificates folder: SwisscomCAreplica
+Original certificates folder: SwisscomCAoriginal [Swisscom website](https://www.swisscom.ch/en/business/enterprise/offer/security/digital_certificate_service.html)\
+New generated certificates folder: SwisscomCAreplica
 #### Replicated:
 ### CA
 sdcs-root2\
