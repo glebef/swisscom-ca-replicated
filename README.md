@@ -55,5 +55,9 @@ ETSI EN 319 412-5
 
 OpenSSL didn’t accept this config on the first attempt, so I don’t have more time to spend on it.
 
+openssl.cnf
+qcStatements=DER:30:0a:30:08:06:06:04:00:8e:46:01:04
+
+
 ### Tools
 OpenSSL 3.4.1 11 Feb 2025 (Library: OpenSSL 3.4.1 11 Feb 2025)
